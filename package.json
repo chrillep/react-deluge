@@ -1,7 +1,10 @@
 {
   "name": "react-deluge",
   "productName": "react-deluge",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "engines": {
+    "node": "14.x"
+  },
   "homepage": "./",
   "main": "main.js",
   "private": true,
